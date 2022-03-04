@@ -23,13 +23,13 @@
 A  ***Learner*** &  A ***Dreamer***.
  
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+ <!--  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 
 **About Me!**
 
-- 💻 MERN stack aspirant at SOAL.
-- 🌱 I’m currently learning JavaScript.
-- ⚡ Fun fact I love Photography
+- 💻 MERN stack aspirant at [SOAL](https://www.schoolofacceleratedlearning.com/).
+- 🌱 I’m currently learning **JavaScript**.
+- ⚡ Fun fact **I love travelling**
 - 📫 Email me at [waniasfa@gmail.com](mailto:waniasfa@gmail.com).
 
 
