@@ -50,8 +50,10 @@ A  ***Learner*** &  A ***Dreamer***.
         <td><a href="https://github.com/Asfa-wani/Asfa-wani">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Asfa-wani&repo=Asfa-wani&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a></td>
-       <!-- <td><a href="https://github.com/Asfa-wani/100DaysOfCode">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sofijahangir&repo=100DaysOfCode&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a></td> -->
-    </tr>  
+     </tr>  
+   </table>
+   <img src="https://github-readme-stats.vercel.app/api?username=Asfa-wani&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Asfa's GitHub Stats">
+
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asfa-wani&count_private=true&theme=radical" alt="Asfa-wani" />
+
   
