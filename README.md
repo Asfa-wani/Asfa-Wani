@@ -59,8 +59,8 @@ A **WEB DEVELOPMENT** ***Learner*** ***Dreamer***.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Asfa-wani&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Asfa's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=asfa-wani&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Asfa's GitHub Stats">
 
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asfa-wani&count_private=true&theme=radical" alt="Asfa-wani" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=asfa-wani&count_private=true&theme=radical" alt="Asfa-wani" />
 
 ----
