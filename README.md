@@ -53,13 +53,7 @@ A  ***Learner*** &  A ***Dreamer***.
 <td><a href="https://github.com/Asfa-wani/30-Days-Of-Code">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Asfa-wani&repo=30-Days-Of-Code&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a></td>
-     </tr>  
-      <tr>
-        
-<td><a href="https://github.com/Asfa-wani/Capstone">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Asfa-wani&repo=Capstone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a></td>
-     </tr>  
+     </tr>    
    </table>
    
  ## &#x1f4c8; GitHub Stats
